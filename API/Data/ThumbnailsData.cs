@@ -4,7 +4,6 @@ namespace API.Data;
 
 public class ThumbnailsData
 {
-    
     public static readonly List<Thumbnail> Thumbnails = new()
     {
         new Thumbnail
